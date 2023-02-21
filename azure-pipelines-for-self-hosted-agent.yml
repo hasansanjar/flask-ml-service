@@ -6,14 +6,14 @@ trigger:
 - main
 
 # TODO: Replace the agent pool name
-pool: myAgentPool
+pool: MyAgentPool
 
 variables:
   # TODO: Replace the service connection name as used in the DevOps project settings
-  azureServiceConnectionId: 'mySC'
+  azureServiceConnectionId: 'hasansanjar'
   
   # TODO: Specify the value of the existing Web App name
-  webAppName: 'mywebapp207578'
+  webAppName: 'udemyapptesting226549'
 
   # Environment name
   environmentName: 'flask-ml-service'
