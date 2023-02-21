@@ -6,8 +6,10 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+pool: MyAgentPool
+
+variables :
+azureServiceConnectionId:hasansanjar
 
 steps:
 - script: echo Hello, world!
