@@ -1,2 +1,5 @@
 # flask-ml-service
-simple project to test azure pipeline
+A sample Flask application to showcase the Azure Pipeline.
+
+## Environment
+Python 3.7
